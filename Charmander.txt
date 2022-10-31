@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Charmander es un Pokemon tipo Fuego. Es bonito
+=======
+Charmander es un Pokemon tipo Fuego. El fue encontrado por Ash cuando su entrenador lo abandono por ser mas debil que sus Pokemons.
+>>>>>>> d93a87411799462d4fe6c67d8c2e5e08167a95a7
